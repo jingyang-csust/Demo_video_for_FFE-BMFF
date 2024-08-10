@@ -2,7 +2,7 @@
 
 Once the above manuscript is accepted, we promise that the code and data of the manuscript will be publicly available for free.
 
-Visual comparison on LaSHeR dataset
+Visual comparison on LaSHeR dataset.
 
 https://github.com/user-attachments/assets/b897fe69-5d24-4031-9b81-9dae1a5aa74b
 
