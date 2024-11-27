@@ -1,4 +1,4 @@
-# A RGB-T Object Tracker via FFT-based Feature Enhancement and Bidirectional Multistage Fusion 
+# RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attentionon 
 
 Once the above manuscript is accepted, we promise that the code and data of the manuscript will be publicly available for free.
 
