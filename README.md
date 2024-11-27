@@ -1,6 +1,4 @@
-# RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attentionon 
-
-Once the above manuscript is accepted, we promise that the code and data of the manuscript will be publicly available for free.
+# Jianming Zhang, Jing Yang, Zikang Liu, Jin Wang. RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention. Neurocomputing, 2025, vol. 616, 128908. DOI: 10.1016/j.neucom.2024.128908.
 
 The code has been published on:https://github.com/jingyang-csust/FFE-BMFF
 
